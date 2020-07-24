@@ -14,3 +14,6 @@
 显示器	LG GSM5B80 27GL850 ( 31.5 英寸  )
 
 声卡	瑞昱  @ AMD High Definition Audio 控制器
+
+
+请务必修改序列号后使用!!!!!!
