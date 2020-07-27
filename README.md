@@ -7,7 +7,7 @@
 
 内存	16 GB ( KLEVV DDR4 3200MHz )
 
-主硬盘	浦科特 PX-128M6S ( 128 GB / 固态硬盘 )
+主硬盘	SN750 500G
 
 显卡	AMD Radeon RX 5700 ( 8 GB / 华硕 )
 
