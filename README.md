@@ -11,9 +11,9 @@
 
 显卡	AMD Radeon RX 5700 ( 8 GB / 华硕 )
 
-显示器	LG GSM5B80 27GL850 ( 31.5 英寸  )
+声卡	Realtek® ALC1220 Codec
 
-声卡	瑞昱  @ AMD High Definition Audio 控制器
+网卡      Intel® I211AT
 
 
 请务必修改序列号后使用!!!!!!
