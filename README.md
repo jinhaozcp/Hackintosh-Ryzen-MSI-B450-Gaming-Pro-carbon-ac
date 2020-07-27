@@ -1,4 +1,4 @@
-# Hackintosh-Ryzen-MSI-B450-Gaming-Pro-carbon-ac
+# Hackintosh-MacOS-Ryzen-MSI-B450-Gaming-Pro-carbon-ac
 微星 B450-Gaming-Pro-carbon-ac 10.15.6 Efi文件
 	
 处理器	AMD Ryzen 7 3700X 8-Core 八核
