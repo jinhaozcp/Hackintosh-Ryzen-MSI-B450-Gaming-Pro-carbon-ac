@@ -1,4 +1,5 @@
 # Hackintosh-MacOS-EFI-Ryzen-MSI-B450-Gaming-Pro-carbon-ac
+# 我的内部硬件型号
 微星 B450-Gaming-Pro-carbon-ac 10.15.6 Efi文件
 	
 处理器	AMD Ryzen 7 3700X 8-Core 八核
@@ -16,9 +17,9 @@
 网卡      Intel® I211AT
 
 
-请务必修改序列号后使用EFI文件!!!!!!
+#请务必修改序列号后使用EFI文件!!!!!!
 
-目前存在的问题：
-1，睡眠、休眠无法唤醒问题；
-2，无线，蓝牙无法使用问题；
+#已修复问题
+1，睡眠、休眠无法唤醒问题已修复；
+2，板载Intel® I211AT无线，蓝牙无法使用问题已解决；
 
