@@ -1,6 +1,6 @@
 # Hackintosh-MacOS-EFI-Ryzen-MSI-B450-Gaming-Pro-carbon-ac
 # 我的内部硬件型号
-微星 B450-Gaming-Pro-carbon-ac 10.15.6 Efi文件
+操作系统版本：macOS Catalina 10.15.6
 	
 处理器	AMD Ryzen 7 3700X 8-Core 八核
 
@@ -14,12 +14,13 @@
 
 声卡	Realtek® ALC1220 Codec
 
-网卡      Intel® I211AT
+有线网卡      Intel® I211AT
 
+无线网卡&蓝牙  Intel® Dual Band Wireless-AC 9260
 
 #请务必修改序列号后使用EFI文件!!!!!!
 
 #已修复问题
 1，睡眠、休眠无法唤醒问题已修复；
-2，板载Intel® I211AT无线，蓝牙无法使用问题已解决；
+2，板载Intel® Dual Band Wireless-AC 9260无线，蓝牙无法使用问题已解决；
 
