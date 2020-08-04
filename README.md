@@ -23,4 +23,5 @@
 #已修复问题
 1，睡眠、休眠无法唤醒问题已修复；
 2，板载Intel® Dual Band Wireless-AC 9260无线，蓝牙无法使用问题已解决；
+3，本固件为双系统固件，如电脑已安装windows，请将/EFI/Microsoft 目录改为:/EFI/Microsoft1 目录，即可完美使用双系统。
 
